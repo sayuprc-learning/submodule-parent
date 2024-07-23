@@ -1,4 +1,0 @@
-[submodule "child"]
-	path = child
-	url = git@github.com:sayuprc-learning/submodule-child.git
-	branch = main
